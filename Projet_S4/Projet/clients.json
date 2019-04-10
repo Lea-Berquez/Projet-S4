@@ -1,0 +1,38 @@
+[
+  {
+      "Titulaire_Compte": {
+          "nom_prenom":"Rossmann_Justin",
+          "mail":"rossmann.justin@gmail.com",
+          "numTelephone":"0607085423",
+          "id": 600000,
+          "mdp": 370380,
+          "ListeNumCmpt": [
+              {
+                  "NumCmpt": 2000
+              },
+              {
+                  "NumCmpt": 1000
+              }
+          ],
+          "msgT":""
+       }
+  },
+  {
+      "Titulaire_Compte": {
+          "nom_prenom":"Berquez_Lea",
+          "mail":"berquez.lea@gmail.com",
+          "numTelephone":"0654231223",
+          "id": 600001,
+          "mdp": 370380,
+          "ListeNumCmpt": [
+              {
+                  "NumCmpt": 2000
+              },
+              {
+                  "NumCmpt": 3000
+              }
+          ],
+          "msgT":"Ok"
+       }
+  }
+]

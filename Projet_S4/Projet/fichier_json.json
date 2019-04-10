@@ -1,0 +1,12 @@
+{
+	"Titulaire_Compte": {
+		"nom": "Berquez", 
+		"prenom": "Lea", 
+		"mail": "lea.berquez@sfr.fr", 
+		"numTelephone": 0777756355, 
+		"identifiant": 12345678, 
+		"mdp": 1234, 
+		"ListeAdrCmpt": [], 
+		"msgT": ""
+	}
+} 

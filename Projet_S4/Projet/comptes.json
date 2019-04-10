@@ -1,0 +1,59 @@
+[
+  {
+      "Compte": {
+          "NumeroCompte": 1000,
+          "typeCmpt": 1,
+          "nbTitulaires": 1,
+          "NumeroTit1": 600000,
+          "NumeroTit2": 0,
+          "solde": 1000000.000000,
+          "actif": 1,
+          "ListeOperation": [
+              {
+                  "date": 20190407,
+                  "identifiantTitR": 0,
+                  "identifiantTitE": 0,
+                  "montant": 1000000.000000
+              }
+          ]
+       }
+  },
+  {
+      "Compte": {
+          "NumeroCompte": 2000,
+          "typeCmpt": 2,
+          "nbTitulaires": 2,
+          "NumeroTit1": 600001,
+          "NumeroTit2": 600000,
+          "solde": 0.000000,
+          "actif": 1,
+          "ListeOperation": [
+              {
+                  "date": 20190407,
+                  "identifiantTitR": 0,
+                  "identifiantTitE": 0,
+                  "montant": 0.000000
+              }
+          ]
+       }
+  },
+  {
+      "Compte": {
+          "NumeroCompte": 3000,
+          "typeCmpt": 3,
+          "nbTitulaires": 1,
+          "NumeroTit1": 600001,
+          "NumeroTit2": 0,
+          "solde": 0.120000,
+          "actif": 1,
+          "ListeOperation": [
+              {
+                  "date": 20190407,
+                  "identifiantTitR": 0,
+                  "identifiantTitE": 0,
+                  "montant": 0.000000
+              }
+          ]
+       }
+  }
+]
